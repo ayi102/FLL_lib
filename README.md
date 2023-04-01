@@ -18,4 +18,4 @@ The FLL_lib project is a collection of commonly used First Lego League (FLL) scr
  - Mindstorms
 
  ## Author
- Coach Ali Ismail
+ Coach Ali
